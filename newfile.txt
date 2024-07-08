@@ -1,4 +1,4 @@
-Creating a new file
+Creating a new fil
 Adding anohter line
 adding 3rd line to commit without staging
 adding 4th line for new branch
